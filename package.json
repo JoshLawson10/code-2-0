@@ -6,8 +6,19 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JoshLawson/code-2-0.git"
+    "url": "https://github.com/JoshLawson10/code-2-0.git"
   },
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "vs code",
+    "vs code theme",
+    "vs code 2.0",
+    "vs code redesign",
+    "vs code modern",
+    "Demystifying Design"
+  ],
   "engines": {
     "vscode": "^1.90.0"
   },

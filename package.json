@@ -4,7 +4,7 @@
   "description": "Custom modern VS Code theme inspired by Demystifying Design's VS Code redesign: https://www.youtube.com/watch?v=m_d7K28CSXg",
   "publisher": "JoshLawson",
   "icon": "img/logo.png",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/JoshLawson10/code-2-0.git"
